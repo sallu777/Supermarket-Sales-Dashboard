@@ -20,9 +20,9 @@ This project presents an Excel-based interactive dashboard for analyzing superma
 
 ## Files Included
 
-| File                                                                    |
-| [final dashboard.xlsx](https://github.com/userattachments/files/21072261/final.dashboard.xlsx)
-| Excel workbook with raw data and dashboard                |
+| File |
+| [final dashboard.xlsx](https://github.com/user-attachments/files/21088923/final.dashboard.xlsx)
+Excel workbook with raw data and dashboard                |
 | ![Screenshot 2025-07-05 111107](https://github.com/user-attachments/assets/393de9e2-fd19-46cf-b75c-2dede431672e)
 | Visual preview of the dashboard layout |
 
